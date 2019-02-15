@@ -7,7 +7,7 @@ Scaricare il webserver UwAmp dal seguente link, contenente la versione del proge
 Scompattare l'archivio in una cartella del PC, es. C:
 
 Entrare nella sotto cartella e avviare UwAmp.exe come amministratore. 
-Utilizzando l'ultima versione di Google Chrome aprire il seguente link: http://localhost/ProgettoFinale/Progetto/MYG/public
+Utilizzando l'ultima versione di Google Chrome aprire il seguente link: http://localhost/Progetto/MYG/public
 
 
 <b>Installazione manuale in Windows</b>
