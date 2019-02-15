@@ -33,10 +33,15 @@ Utilizzando l'ultima versione di Google Chrome aprire il seguente link: http://l
   <li>Avviare il sito dal seguente link http://localhost/ProgettoFinale/Progetto/MYG/public</li>
 </ul>
 
+<b>La connessione ad internet è richiesta</b>
+
 
 Realizzato da:
-Andrea Carbone
-Roberta Della Ricca
-Andrea Iacobino
-Attilio Iurlaro
-Germana Spinelli
+<ul>
+  <li>Andrea Carbone</li>
+  <li>Roberta Della Ricca</li>
+  <li>Andrea Iacobino</li>
+  <li>Attilio Iurlaro</li>
+  <li>Germana Spinelli</li>
+  <li>Francesco Sternativo</li>
+</ul>
