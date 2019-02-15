@@ -8,3 +8,11 @@ Scompattare l'archivio in una cartella del PC, es. C:
 
 Entrare nella sotto cartella e avviare UwAmp.exe come amministratore. 
 Utilizzando l'ultima versione di Google Chrome aprire il seguente link: 
+
+
+Realizzato da:
+Andrea Carbone
+Roberta Della Ricca
+Andrea Iacobino
+Attilio Iurlaro
+Germana Spinelli
