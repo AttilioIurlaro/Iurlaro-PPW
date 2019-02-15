@@ -1,7 +1,7 @@
 # Iurlaro-PPW
 Cartella contenente il progetto realizzato per il corso di Progettazione per il Web (a.a. 2018/2019) del CdL in Informatica e Comunicazione Digitale sede di Taranto.
 
-Istallazione rapida in Windows
+<b>Istallazione rapida in Windows </b>
 
 Scaricare il webserver UwAmp dal seguente link, contenente la versione del progetto.
 Scompattare l'archivio in una cartella del PC, es. C:
